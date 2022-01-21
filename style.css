@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.panda-bg{
+    background-color: #fceae8;
+}
+.custom-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 8px;
+}
+.custom-photo-size img{
+    width: 100px;
+}
